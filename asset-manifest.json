@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-react-app/static/css/main.5acd3e8a.chunk.css",
-    "main.js": "/my-react-app/static/js/main.4a1fa852.chunk.js",
-    "main.js.map": "/my-react-app/static/js/main.4a1fa852.chunk.js.map",
+    "main.js": "/my-react-app/static/js/main.389974d3.chunk.js",
+    "main.js.map": "/my-react-app/static/js/main.389974d3.chunk.js.map",
     "runtime-main.js": "/my-react-app/static/js/runtime-main.4448260f.js",
     "runtime-main.js.map": "/my-react-app/static/js/runtime-main.4448260f.js.map",
-    "static/js/2.ea40b02b.chunk.js": "/my-react-app/static/js/2.ea40b02b.chunk.js",
-    "static/js/2.ea40b02b.chunk.js.map": "/my-react-app/static/js/2.ea40b02b.chunk.js.map",
+    "static/js/2.39c77be6.chunk.js": "/my-react-app/static/js/2.39c77be6.chunk.js",
+    "static/js/2.39c77be6.chunk.js.map": "/my-react-app/static/js/2.39c77be6.chunk.js.map",
     "index.html": "/my-react-app/index.html",
     "static/css/main.5acd3e8a.chunk.css.map": "/my-react-app/static/css/main.5acd3e8a.chunk.css.map",
-    "static/js/2.ea40b02b.chunk.js.LICENSE.txt": "/my-react-app/static/js/2.ea40b02b.chunk.js.LICENSE.txt",
+    "static/js/2.39c77be6.chunk.js.LICENSE.txt": "/my-react-app/static/js/2.39c77be6.chunk.js.LICENSE.txt",
     "static/media/Back.8af6b2fe.svg": "/my-react-app/static/media/Back.8af6b2fe.svg",
     "static/media/style.css": "/my-react-app/static/media/Covalent-Background_5.cc7bc02b.jpg",
     "static/media/App.css": "/my-react-app/static/media/alert.6e5425f9.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4448260f.js",
-    "static/js/2.ea40b02b.chunk.js",
+    "static/js/2.39c77be6.chunk.js",
     "static/css/main.5acd3e8a.chunk.css",
-    "static/js/main.4a1fa852.chunk.js"
+    "static/js/main.389974d3.chunk.js"
   ]
 }
